@@ -297,13 +297,12 @@ header.masthead p {
   padding: 1rem 2rem;
 }
 
-.btn-primary {
+.btn-primary, .btn-primary:hover, .btn-primary:active {
   background-color: #B33771;
-  border: 2px #B33771 solid;
+  border: 3px #B33771 solid;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #ecf0f1;
   background-color: transparent !important;
-  border: 2px #B33771 solid;
 }
