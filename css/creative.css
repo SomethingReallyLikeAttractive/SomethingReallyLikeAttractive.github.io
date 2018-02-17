@@ -299,7 +299,7 @@ header.masthead p {
 
 .btn-primary {
   background-color: #B33771;
-  border-color: #B33771;
+  border: 2px #B33771 solid;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
