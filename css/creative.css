@@ -305,4 +305,5 @@ header.masthead p {
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #ecf0f1;
   background-color: transparent !important;
+  border: 2px #B33771 solid;
 }
